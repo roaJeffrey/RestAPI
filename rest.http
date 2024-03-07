@@ -1,0 +1,17 @@
+###Get All Employee
+GET http://localhost:3000/employee
+
+###Post New Employees
+POST http://localhost:3000/employee
+
+###Get A Single Employee
+GET http://localhost:3000/employee/id
+
+###Patch A Single Employee
+PATCH http://localhost:3000/employee/id
+
+###Delete A Single Employee
+DELETE http://localhost:3000/employee/id
+
+###Get All Users
+GET http://localhost:3000/user
